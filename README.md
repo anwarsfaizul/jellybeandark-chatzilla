@@ -1,6 +1,13 @@
 # jellybeandark-chatzilla
 ChatZilla-Motif
 
+Project Information
+
+The project was created on Jul 21, 2011.
+
+License: GNU GPL v2
+2 stars
+hg-based source control
 
 https://code.google.com/archive/p/jelly-bean-dark-theme-for-chatzilla/
 
